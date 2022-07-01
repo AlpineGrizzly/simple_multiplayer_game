@@ -1,4 +1,4 @@
-#Multiplayer game stuff
+#Multiplayer game stuff and shit
 import pygame
 from pygame.locals import *
 import sys 
