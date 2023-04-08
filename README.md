@@ -1,6 +1,9 @@
-# Destructive Bros game or whatever
+# Simple Multiplayer game using python sockets
 
-Basically a fort building game that will have support for online play.
+Simple multiplayer game that will have a client server pair where multiple users
+can log into the hosted server and compete against one another in a shot them up
+2d base building game. Concept so far is players will be divided into two groups and will be able to fight one another to earn income that can be used towards
+strengthing defenses against opposing groups.
 
 ## Dependencies 
 | OS   | Dependencies | 
